@@ -1,0 +1,26 @@
+25
+USA;10;15;17;11;12;16
+Rusia;10;21;17;26;27;15
+China;1;4;4;0;2;9
+Colombia;2;3;6;0;2;9
+Peru;4;8;9;0;10;2
+Mexico;6;10;26;15;9;9
+Ucrania;5;25;2;10;12;26
+Republica checa;0;0;1;7;7;7
+Pakistan;5;15;20;0;2;9
+Albania;0;3;7;0;30;9
+Mongolia;7;8;15;6;10;2
+Portugal;7;11;26;15;4;9
+Bagladesh;10;25;6;10;12;36
+Japon;36;40;10;7;8;7
+Sri lanka;30;15;20;12;0;9
+Andorra;6;3;7;1;30;20
+España;15;8;15;4;10;1
+Singapur;9;16;16;13;4;8
+Brazil;6;12;23;13;4;2
+Nigeria;4;5;6;1;2;3
+Republica Dominicana;3;6;21;23;20;1
+Argentina;3;20;16;5;16;20
+Belice;4;6;34;15;20;4
+Venezuela;6;20;1;30;4;2
+Ghana;100;100;100;100;50;100
